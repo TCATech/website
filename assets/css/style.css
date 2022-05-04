@@ -1805,8 +1805,8 @@ button[type="red"]:hover {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #5663f7;
-  color: #fff;
+  background: #fffb00;
+  color: black;
   text-decoration: none;
 }
 
